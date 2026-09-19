@@ -23,9 +23,9 @@
 
 ```js
 const shivam = {
-  name: "Shivam Kumar Dev",
+  name: "Shivam Kumar",
   pronouns: "he/him",
-  role: "CS Undergrad",
+  role: "CSE 2nd-Yr",
   currentFocus: ["Data Structures & Algorithms", "Web Development"],
   learning: ["System Design", "Open Source Contribution"],
   funFact: "I debug with coffee ☕ and console.log()",
@@ -34,9 +34,9 @@ const shivam = {
 ```
 
 - 🔭 Currently working on **DSA & web projects**
-- 🌱 Currently learning **[add what you're learning]**
+- 🌱 Currently learning **Backend**
 - 🤝 Open to collaborating on **open-source projects**
-- 💬 Ask me about **[C++ / Python / JavaScript / anything you like]**
+- 💬 Ask me about **[C++ / JAVA / JavaScript / anything you like]**
 - ⚡ Motto: *Turning ideas into code, one commit at a time*
 
 ---
