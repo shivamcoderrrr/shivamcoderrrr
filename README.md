@@ -30,7 +30,8 @@
       <img src=".github/workflows/ascii_cropped_avvtar.png" alt="Shivam Kumar" style="width: 100%; border-radius: 6px;">
     </td>
     <td style="width: 60%; vertical-align: top; font-family: monospace; font-size: 14px; line-height: 1.5; color: #c9d1d9;">
-      <span style="color: #00F7FF;">shivam@kumar</span><br>
+      <img src=".github/workflows/shivam-stack-intro.gif">
+      <!-- <span style="color: #00F7FF;">shivam@kumar</span><br>
       ─────────────────────────────────<br>
       <span style="color: #00F7FF;">OS................................................................................................</span> Windows 11<br>
       <span style="color: #00F7FF;">Uptime....................................................................</span> 2 years, 4 months<br>
@@ -44,12 +45,12 @@
       <br>
       <span style="color: #E3B341;">Hobbies.Software........</span> DSA, Open Source, Web-Dev, DevOps <br>
       <span style="color: #E3B341;">Hobbies.Hardware.....................................................................</span> PC Building <br>
-      <br>
+      <br> -->
       <span style="color: #00F7FF;">Contacts: ──────────────────────────────</span><br>
-      <span style="color: #E3B341;">Email......................................................</span> shivam829241@email.com<br>
-      <span style="color: #E3B341;">LinkedIn...........................................</span> <a href="https://linkedin.com/in/shivam-kumar-914903361" style="color: #58a6ff;">shivam-kumar-914903361</a><br>
-      <span style="color: #E3B341;">Twitter...............................................</span> <a href="https://x.com/shivam829241" style="color: #58a6ff;">@shivam829241</a><br>
-      <span style="color: #E3B341;">Discord.................................................................</span> try_again0490<br>
+      <span style="color: #E3B341;">Email...................................................................................................................</span> shivam829241@email.com<br>
+      <span style="color: #E3B341;">LinkedIn.......................................................................................................</span> <a href="https://linkedin.com/in/shivam-kumar-914903361" style="color: #58a6ff;">shivam-kumar-914903361</a><br>
+      <span style="color: #E3B341;">Twitter.........................................................................................................................</span> <a href="https://x.com/shivam829241" style="color: #58a6ff;">@shivam829241</a><br>
+      <span style="color: #E3B341;">Discord......................................................................................................................</span> try_again0490<br>
       <br>
     </td>
   </tr>
