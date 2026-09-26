@@ -29,20 +29,20 @@
     <td style="width: 40%; vertical-align: top; padding-right: 15px; text-align: center;">
       <img src=".github/workflows/ascii_cropped_avvtar.png" alt="Shivam Kumar" style="width: 100%; border-radius: 6px;">
     </td>
-    <td style="width: 50%; vertical-align: top; font-family: monospace; font-size: 14px; line-height: 1.5; color: #c9d1d9;">
+    <td style="width: 60%; vertical-align: top; font-family: monospace; font-size: 14px; line-height: 1.5; color: #c9d1d9;">
       <span style="color: #00F7FF;">shivam@kumar</span><br>
       ─────────────────────────────────<br>
-      <span style="color: #00F7FF;">OS......................................................................................................................</span> Windows 11<br>
-      <span style="color: #00F7FF;">Uptime...............................................................................</span> 2 years, 4 months<br>
-      <span style="color: #00F7FF;">Host...................................................................................................</span> IIIT Sonepat<br>
-      <span style="color: #00F7FF;">Kernel...............................................................................</span> Computer Science Engineering<br>
-      <span style="color: #00F7FF;">IDE..................................................................................................</span> VS Code, IntelliJ IDEA<br>
+      <span style="color: #00F7FF;">OS................................................................................................</span> Windows 11<br>
+      <span style="color: #00F7FF;">Uptime....................................................................</span> 2 years, 4 months<br>
+      <span style="color: #00F7FF;">Host.................................................................................</span> IIIT Sonepat<br>
+      <span style="color: #00F7FF;">Kernel...........................................</span> Computer Science Engineering<br>
+      <span style="color: #00F7FF;">IDE....................................................................</span> VS Code, IntelliJ IDEA<br>
       <br>
-      <span style="color: #E3B341;">Languages.Programming.................</span> C, C++, Java, JavaScript, TypeScript<br>
-      <span style="color: #E3B341;">Languages.Computer...............................................</span> HTML, CSS, JSON, SQL<br>
-      <span style="color: #E3B341;">Languages.Real.................................................................</span> English, Hindi<br>
+      <span style="color: #E3B341;">Languages.Programming............................</span> C, C++, Java, JavaScript, TypeScript<br>
+      <span style="color: #E3B341;">Languages.Computer................................</span> HTML, CSS, JSON, SQL<br>
+      <span style="color: #E3B341;">Languages.Real....................................................</span> English, Hindi<br>
       <br>
-      <span style="color: #E3B341;">Hobbies.Software......................</span> DSA, Open Source, Web-Dev, DevOps <br>
+      <span style="color: #E3B341;">Hobbies.Software........</span> DSA, Open Source, Web-Dev, DevOps <br>
       <span style="color: #E3B341;">Hobbies.Hardware.....................................................................</span> PC Building <br>
       <br>
       <span style="color: #00F7FF;">Contacts: ──────────────────────────────</span><br>
