@@ -11,7 +11,7 @@
 <!-- Typing animation -->
 <div align="center" >
   <a href="https://github.com/shivamcoderrrr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&letterSpacing=medium&duration=3500&pause=1500&color=CCFF00&center=true&vCenter=true&width=650&lines=Just+One+More+Commit!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&letterSpacing=medium&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=Just+One+More+Commit!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,25 +27,25 @@
 <table style="width: 100%; border-collapse: collapse; background: transparent;">
   <tr>
     <td style="width: 25%; vertical-align: top; padding-right: 15px; text-align: center;">
-      <img src=".github/workflows/ascii_profile_avvtar.png" alt="Shivam Kumar" style="width: 100%; max-width: 180px; height: auto; border-radius: 6px;">
+      <img src=".github/workflows/ascii_cropped_avvtar.png" alt="Shivam Kumar" style="width: 100%; max-width: 180px; height: auto; border-radius: 6px;">
     </td>
     <td style="width: 75%; vertical-align: top; font-family: monospace; font-size: 14px; line-height: 1.5; color: #c9d1d9;">
       <span style="color: #00F7FF;">shivam@kumar</span><br>
       ──────────────────────────────────────────────────────────<br>
-      <span style="color: #00F7FF;">OS.................................................................................................................................................</span> Windows 11<br>
-      <span style="color: #00F7FF;">Uptime.............................................................................................................................</span> 2 years, 4 months<br>
-      <span style="color: #00F7FF;">Host.....................................................................................................................................................</span> IIIT Sonepat<br>
-      <span style="color: #00F7FF;">Kernel..................................................................................................</span> Computer Science Engineering<br>
+      <span style="color: #00F7FF;">OS........................................................................................................................................................</span> Windows 11<br>
+      <span style="color: #00F7FF;">Uptime................................................................................................................................</span> 2 years, 4 months<br>
+      <span style="color: #00F7FF;">Host......................................................................................................................................................</span> IIIT Sonepat<br>
+      <span style="color: #00F7FF;">Kernel.........................................................................................................</span> Computer Science Engineering<br>
       <span style="color: #00F7FF;">IDE.............................................................................................................................</span> VS Code, IntelliJ IDEA<br>
       <br>
       <span style="color: #E3B341;">Languages.Programming............................................................</span> C, C++, Java, JavaScript TypeScript<br>
       <span style="color: #E3B341;">Languages.Computer..........................................................................................</span> HTML, CSS, JSON, SQL<br>
       <span style="color: #E3B341;">Languages.Real...........................................................................................................................</span> English, Hindi<br>
       <br>
-      <span style="color: #E3B341;">Hobbies.Software..............................................................</span> DSA, Open Source, Web-Dev, DevOps <br>
-      <span style="color: #E3B341;">Hobbies.Hardware...........................................................................................................................</span> PC Buiilding <br>
+      <span style="color: #E3B341;">Hobbies.Software....................................................................</span> DSA, Open Source, Web-Dev, DevOps <br>
+      <span style="color: #E3B341;">Hobbies.Hardware...................................................................................................................</span> PC Buiilding <br>
       <br>
-      <span style="color: #00F7FF;">Contact ─────────────────────────────────────────────────</span><br>
+      <span style="color: #00F7FF;">Contacts: ─────────────────────────────────────────────────</span><br>
       <span style="color: #E3B341;">Email.......................................................................................................................</span> shivam829241@email.com<br>
       <span style="color: #E3B341;">LinkedIn.............................................................................................................</span> <a href="https://linkedin.com/in/shivam-kumar-914903361" style="color: #58a6ff;">linkedin.com/in/yourhandle</a><br>
       <span style="color: #E3B341;">Discord......................................................................................................................................</span> <a href="https://discord.com/users/try_again0490">try_again0490</a>
@@ -58,7 +58,7 @@
 const shivam = {
   name: "Shivam Kumar",
   pronouns: "he/him",
-  role: "CSE 2nd-Yr",
+  projects: "Myntra UI clone using HTML+CSS+JS , Youtube using React",
   currentFocus: ["Data Structures & Algorithms", "Full Stack Dev + Devops"],
   lookingFor: "Open-source projects to collaborate on 🤝",
   hobby: "Beyond the syntax, I genuinely love coding exploring how raw logic translates into real-world applications
@@ -72,12 +72,12 @@ const shivam = {
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<div align="center" style="padding: 20px 0;">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="Tech stack" />
 </div>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 
@@ -85,16 +85,16 @@ const shivam = {
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shivamcoderrrr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
-
 ---
+-->
 
 ### 📈 Contribution Graph
 
 <div align="center">
   <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=shivamcoderrrr&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
 </div>
----
 <!--
+---
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -116,7 +116,7 @@ const shivam = {
 -->
 ---
 
-### 🧩 Coding Profiles (optional)
+### 🧩 Coding Profiles 
 
 <!-- Delete this section if you don't use these. Replace YOUR_USERNAME. -->
 <div align="center">
@@ -136,15 +136,16 @@ const shivam = {
 
 <br/>
 
-<div align="center">
-  <i><span style="color: #ff4d4d;">"First, solve the problem. Then, write the code."</span></i> 
+<div align="center" style="padding-top: 30px;">
+  <i><b><span style="color:FF0000;">"First, solve the problem. Then, write the code."</span></b></i>
 </div>
 
 <!-- Footer -->
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 </div>
-
+-->
 
 <!--
 **shivamcoderrrr/shivamcoderrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
