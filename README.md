@@ -23,8 +23,36 @@
 </div>
 
 ---
-
 ### 🧑‍💻 About Me
+<table style="width: 100%; border-collapse: collapse; background: transparent;">
+  <tr>
+    <td style="width: 25%; vertical-align: top; padding-right: 15px; text-align: center;">
+      <img src=".github/workflows/ascii_profile_avvtar.png" alt="Shivam Kumar" style="width: 100%; max-width: 180px; height: auto; border-radius: 6px;">
+    </td>
+    <td style="width: 75%; vertical-align: top; font-family: monospace; font-size: 14px; line-height: 1.5; color: #c9d1d9;">
+      <span style="color: #00F7FF;">shivam@kumar</span><br>
+      ──────────────────────────────────────────────────────────<br>
+      <span style="color: #00F7FF;">OS.................................................................................................................................................</span> Windows 11<br>
+      <span style="color: #00F7FF;">Uptime.............................................................................................................................</span> 2 years, 4 months<br>
+      <span style="color: #00F7FF;">Host.....................................................................................................................................................</span> IIIT Sonepat<br>
+      <span style="color: #00F7FF;">Kernel..................................................................................................</span> Computer Science Engineering<br>
+      <span style="color: #00F7FF;">IDE.............................................................................................................................</span> VS Code, IntelliJ IDEA<br>
+      <br>
+      <span style="color: #E3B341;">Languages.Programming............................................................</span> C, C++, Java, JavaScript TypeScript<br>
+      <span style="color: #E3B341;">Languages.Computer..........................................................................................</span> HTML, CSS, JSON, SQL<br>
+      <span style="color: #E3B341;">Languages.Real...........................................................................................................................</span> English, Hindi<br>
+      <br>
+      <span style="color: #E3B341;">Hobbies.Software..............................................................</span> DSA, Open Source, Web-Dev, DevOps <br>
+      <span style="color: #E3B341;">Hobbies.Hardware...........................................................................................................................</span> PC Buiilding <br>
+      <br>
+      <span style="color: #00F7FF;">Contact ─────────────────────────────────────────────────</span><br>
+      <span style="color: #E3B341;">Email.......................................................................................................................</span> shivam829241@email.com<br>
+      <span style="color: #E3B341;">LinkedIn.............................................................................................................</span> <a href="https://linkedin.com/in/shivam-kumar-914903361" style="color: #58a6ff;">linkedin.com/in/yourhandle</a><br>
+      <span style="color: #E3B341;">Discord......................................................................................................................................</span> <a href="https://discord.com/users/try_again0490">try_again0490</a>
+      <br>
+    </td>
+  </tr>
+</table>
 
 ```js
 const shivam = {
@@ -48,8 +76,6 @@ const shivam = {
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="Tech stack" />
 </div>
 
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -65,9 +91,8 @@ const shivam = {
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcoderrrr&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=shivamcoderrrr&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
 </div>
-
 ---
 <!--
 ### 🐍 Contribution Snake
