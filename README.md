@@ -1,17 +1,21 @@
 <!-- Banner -->
+<div  >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=800&size=30&letterSpacing=medium&duration=3500&pause=1500&color=F7213F&width=435&lines=Hello+World+%2C+I'm" alt="Typing SVG" /></a>
+</div>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Shivam Kumar" />
-</h1>
+<div width="90%" height="130" align="center">
+  <img src=".github/workflows/shivam-kumar-glitch-banner.gif" alt="Shivam Kumar" >
+</div>
+
 
 <!-- Typing animation -->
-<div align="center">
+<div align="center" >
   <a href="https://github.com/shivamcoderrrr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Shivam;Just+One+More+Commit!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&letterSpacing=medium&duration=3500&pause=1500&color=CCFF00&center=true&vCenter=true&width=650&lines=Just+One+More+Commit!" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
+<div align="center" gap="10">
   <img src="https://komarev.com/ghpvc/?username=shivamcoderrrr&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/shivamcoderrrr?tab=followers">
     <img src="https://img.shields.io/github/followers/shivamcoderrrr?style=flat&logo=github&color=0e75b6" alt="Followers" />
@@ -41,7 +45,7 @@ const shivam = {
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,nodejs,express,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="Tech stack" />
 </div>
 
 
@@ -65,7 +69,7 @@ const shivam = {
 </div>
 
 ---
-
+<!--
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -75,7 +79,7 @@ const shivam = {
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/shivamcoderrrr/shivamcoderrrr/output/github-snake.svg" />
   </picture>
 </div>
-
+-->
 
 <!--
 ---
